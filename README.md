@@ -7,7 +7,7 @@
 
 Museum digital interaktif untuk website lawas, teknologi yang ditinggalkan, dan budaya internet yang layak diingat.
 
-[Mulai di lokal](#-menjalankan-proyek) · [Galeri screenshot](#-galeri-aplikasi) · [Fitur](#-fitur-utama) · [Deploy](#-deploy-ke-vercel)
+[**Live Demo ↗**](https://the-lost-archive-two.vercel.app) · [Mulai di lokal](#-menjalankan-proyek) · [Galeri screenshot](#-galeri-aplikasi) · [Fitur](#-fitur-utama) · [Deploy](#-deploy-ke-vercel)
 
 ![React](https://img.shields.io/badge/React-19-202820?logo=react&logoColor=c8ed85)
 ![Vite](https://img.shields.io/badge/Vite-7-202820?logo=vite&logoColor=eeece3)
@@ -325,6 +325,8 @@ Smoke check mencakup interaksi CRT, pembukaan browser retro, filter hardware, di
 Pengujian ini adalah smoke check, bukan pengganti unit test, audit aksesibilitas, atau pengujian lintas browser yang lengkap.
 
 ## ✦ Deploy ke Vercel
+
+**Deployment produksi:** https://the-lost-archive-two.vercel.app
 
 ### Melalui integrasi GitHub
 
